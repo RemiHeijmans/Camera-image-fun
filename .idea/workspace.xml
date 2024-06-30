@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="all files till now">
-      <change afterPath="$PROJECT_DIR$/src/ImageToASCIIConverter100x100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageToASCIIConverterallpixels.java" afterDir="false" />
+    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="ascii for images">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camera-foto-fun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Camera-foto-fun.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +41,23 @@
     "Application.AsciiArtConverter (1).executor": "Run",
     "Application.AsciiArtConverter.executor": "Run",
     "Application.Camera.executor": "Run",
+    "Application.ImageProcessor.executor": "Run",
     "Application.ImageRGBExtractor.executor": "Run",
     "Application.ImageToASCIIConverter.executor": "Run",
     "Application.ImageToASCIIConverter100x100.executor": "Run",
     "Application.ImageToASCIIConverterallpixels.executor": "Run",
+    "Application.imageprocesing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Downloads/opencv/build/java/x64",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Documenten/programeren/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ImageToASCIIConverter100x100">
+  <component name="RunManager" selected="Application.ImageProcessor">
     <configuration name="AsciiArtConverter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsciiArtConverter" />
       <module name="Camera-foto-fun" />
@@ -60,15 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Camera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Camera" />
-      <module name="Camera-foto-fun" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ImageRGBExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImageRGBExtractor" />
+    <configuration name="ImageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageProcessor" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="imageprocesing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="imageprocesing" />
+      <module name="Camera-foto-fun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageProcessor" />
+        <item itemvalue="Application.imageprocesing" />
         <item itemvalue="Application.ImageToASCIIConverter100x100" />
         <item itemvalue="Application.ImageToASCIIConverterallpixels" />
         <item itemvalue="Application.AsciiArtConverter (1)" />
-        <item itemvalue="Application.Camera" />
-        <item itemvalue="Application.ImageRGBExtractor" />
       </list>
     </recent_temporary>
   </component>
@@ -123,12 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719742406241</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ascii for images">
+      <option name="closed" value="true" />
+      <created>1719746516789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719746516789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second attempt to git" />
     <MESSAGE value="all files till now" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files till now" />
+    <MESSAGE value="ascii for images" />
+    <option name="LAST_COMMIT_MESSAGE" value="ascii for images" />
   </component>
 </project>
