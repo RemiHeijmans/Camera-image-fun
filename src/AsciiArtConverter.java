@@ -7,8 +7,8 @@ import org.opencv.videoio.VideoCapture;
 
 public class AsciiArtConverter {
 
-    private static final String ASCII_CHARS = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ";
-
+    //private static final String ASCII_CHARS = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ";
+    private static final String ASCII_CHARS = "           .........-':_,^=;><+!rc*/z?sLTv)J7(|Fi{C}fI31tlu[neoZ5Yxjya]2ESwqkP6h9d4VpOGbUAKXHm8RD#$Bg0MNWQ%&@";
     public static void main(String[] args) {
         // Load the OpenCV native library
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
