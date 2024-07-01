@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work">
+    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="swing options work now">
+      <change afterPath="$PROJECT_DIR$/src/ImageGuessingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Application.AsciiArtConverter (1).executor": "Run",
     "Application.AsciiArtConverter.executor": "Run",
     "Application.Camera.executor": "Run",
+    "Application.ImageGuessingGame.executor": "Run",
     "Application.ImageProcessor.executor": "Run",
     "Application.ImageRGBExtractor.executor": "Run",
     "Application.ImageToASCIIConverter.executor": "Run",
@@ -54,9 +55,23 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ImageProcessor">
+  <component name="RunManager" selected="Application.ImageGuessingGame">
+    <configuration name="AsciiArtConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsciiArtConverter" />
+      <module name="Camera-foto-fun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Camera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Camera" />
+      <module name="Camera-foto-fun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageGuessingGame" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,27 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImageToASCIIConverterallpixels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImageToASCIIConverterallpixels" />
-      <module name="Camera-foto-fun" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="imageprocesing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="imageprocesing" />
-      <module name="Camera-foto-fun" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageGuessingGame" />
         <item itemvalue="Application.ImageProcessor" />
-        <item itemvalue="Application.Camera" />
-        <item itemvalue="Application.imageprocesing" />
+        <item itemvalue="Application.AsciiArtConverter" />
         <item itemvalue="Application.ImageToASCIIConverter100x100" />
-        <item itemvalue="Application.ImageToASCIIConverterallpixels" />
+        <item itemvalue="Application.Camera" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719759044395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="swing options work now">
+      <option name="closed" value="true" />
+      <created>1719836979363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719836979363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +158,7 @@
     <MESSAGE value="all files till now" />
     <MESSAGE value="ascii for images" />
     <MESSAGE value="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work" />
-    <option name="LAST_COMMIT_MESSAGE" value="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work" />
+    <MESSAGE value="swing options work now" />
+    <option name="LAST_COMMIT_MESSAGE" value="swing options work now" />
   </component>
 </project>
