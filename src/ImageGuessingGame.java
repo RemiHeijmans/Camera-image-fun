@@ -14,6 +14,10 @@ public class ImageGuessingGame {
     private static final int FRAME_WIDTH = 1500;
     private static final int FRAME_HEIGHT = 1000;
     private static final List<String> IMAGE_PATHS = List.of(
+
+
+
+
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\download.jfif",
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\download-betta.jfif",
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\dog.jfif",
@@ -33,7 +37,12 @@ public class ImageGuessingGame {
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\redpanda.jfif",
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\eagle.jfif",
             "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\hippo.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\kangaroejfif.jfif"
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\kangaroejfif.jfif",
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\specht.jpg",
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\tree.jpeg",
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\krok.jfif",
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\kwal.jpg",
+            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\snek.jpg"
 
     );
     private static final Random RANDOM = new Random();
