@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="ascii for images">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageProcessor.java" afterDir="false" />
+    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Camera-foto-fun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Camera-foto-fun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +55,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.ImageProcessor">
-    <configuration name="AsciiArtConverter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AsciiArtConverter" />
+    <configuration name="Camera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Camera" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,10 +93,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ImageProcessor" />
+        <item itemvalue="Application.Camera" />
         <item itemvalue="Application.imageprocesing" />
         <item itemvalue="Application.ImageToASCIIConverter100x100" />
         <item itemvalue="Application.ImageToASCIIConverterallpixels" />
-        <item itemvalue="Application.AsciiArtConverter (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -136,13 +133,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719746516789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work">
+      <option name="closed" value="true" />
+      <created>1719759044395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719759044395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second attempt to git" />
     <MESSAGE value="all files till now" />
     <MESSAGE value="ascii for images" />
-    <option name="LAST_COMMIT_MESSAGE" value="ascii for images" />
+    <MESSAGE value="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work" />
+    <option name="LAST_COMMIT_MESSAGE" value="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work" />
   </component>
 </project>
