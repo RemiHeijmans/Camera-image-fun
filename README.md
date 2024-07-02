@@ -45,6 +45,8 @@ This project extracts the RGB values of each pixel in an image and prints them o
 ## ImagetoASCIIConverter (100... & allpixels)
 These files convert an image to ASCII art. You need to download an image and add its path to the code to make it work.
 
+## RealTimeAsciiArt
+this films ya and makes ascii art ot of it instantly. it isn't that good.
 ## VideoRecorder
 This project records a short video using the camera.
 

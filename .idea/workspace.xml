@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="imageguessingGame you can add paths of image yoursevle">
+    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="removed wrong readme">
+      <change afterPath="$PROJECT_DIR$/src/RealTimeAsciiArt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImageGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageGuessingGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,8 @@
     "Application.ImageToASCIIConverter.executor": "Run",
     "Application.ImageToASCIIConverter100x100.executor": "Run",
     "Application.ImageToASCIIConverterallpixels.executor": "Run",
+    "Application.RealTimeASCIIArt.executor": "Run",
+    "Application.RealTimeAsciiArt.executor": "Run",
     "Application.imageprocesing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,7 +57,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ImageGuessingGame">
+  <component name="RunManager" selected="Application.RealTimeAsciiArt">
     <configuration name="AsciiArtConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsciiArtConverter" />
       <module name="Camera-foto-fun" />
@@ -77,15 +79,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImageProcessor" />
+    <configuration name="RealTimeASCIIArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealTimeASCIIArt" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImageToASCIIConverter100x100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImageToASCIIConverter100x100" />
+    <configuration name="RealTimeAsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealTimeAsciiArt" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImageGuessingGame" />
-        <item itemvalue="Application.ImageProcessor" />
-        <item itemvalue="Application.AsciiArtConverter" />
-        <item itemvalue="Application.ImageToASCIIConverter100x100" />
+        <item itemvalue="Application.RealTimeAsciiArt" />
         <item itemvalue="Application.Camera" />
+        <item itemvalue="Application.RealTimeASCIIArt" />
+        <item itemvalue="Application.AsciiArtConverter" />
+        <item itemvalue="Application.ImageGuessingGame" />
       </list>
     </recent_temporary>
   </component>
@@ -158,8 +160,43 @@
       <option name="project" value="LOCAL" />
       <updated>1719849468047</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some more pics for the guessin game">
+      <option name="closed" value="true" />
+      <created>1719858998535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719858998535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added readme">
+      <option name="closed" value="true" />
+      <created>1719859679347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719859679347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="removed wrong readme">
+      <option name="closed" value="true" />
+      <created>1719860610477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719860610477</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second attempt to git" />
@@ -168,6 +205,9 @@
     <MESSAGE value="imageprocesoor not finnished  takes paht wiht and height and you can make a lot of things   pictrue colours setting and swing somtimes doens't work" />
     <MESSAGE value="swing options work now" />
     <MESSAGE value="imageguessingGame you can add paths of image yoursevle" />
-    <option name="LAST_COMMIT_MESSAGE" value="imageguessingGame you can add paths of image yoursevle" />
+    <MESSAGE value="some more pics for the guessin game" />
+    <MESSAGE value="added readme" />
+    <MESSAGE value="removed wrong readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed wrong readme" />
   </component>
 </project>
