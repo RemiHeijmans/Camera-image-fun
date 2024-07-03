@@ -47,6 +47,16 @@ These files convert an image to ASCII art. You need to download an image and add
 
 ## RealTimeAsciiArt
 this films ya and makes ascii art ot of it instantly. it isn't that good.
+
+## RealTimeMotionDetection
+This project detects motion in real-time video feed from the camera.
+
+## RealTimeEdgeDetection
+This project performs real-time edge detection on video feed from the camera.
+
+## RealTimeColorFilterSwitcher
+This project allows switching between different color filters and pixel sizes in real-time using the camera feed.
+
 ## VideoRecorder
 This project records a short video using the camera.
 
