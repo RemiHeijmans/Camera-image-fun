@@ -1,5 +1,5 @@
 ## Fun Projects
-This repository contains various fun projects that involve image and video processing, ASCII art generation, and more. Some files use the camera to take photos, others create ASCII art from images or the camera feed, and some manipulate the proportions and colors of images.
+This repository contains various fun classes that involve image and video processing, ASCII art generation, and more. Some files use the camera to take photos, others create ASCII art from images or the camera feed, and some manipulate the proportions and colors of images. (i made this project just for fun by myselve)-RemiHeijmans
 
 ## How to Run
 Each file runs separately. Simply run the main method of the desired file. For the ASCII art converters, you can hard-code different characters to achieve a better effect. The commented option is for a white background, while the current one is for a black background. In most files, you can change the hard-coded values for various parameters, such as the width and height of the resulting image.
@@ -63,3 +63,8 @@ this is just a video to ascii, press"t" to swith to light / darkmode (they are s
 This project records a short video using the camera.
 
 Feel free to replace "path_to_image_1.jpg", "path_to_image_2.jpg", and "path_to_image_3.jpg" in the ImageGuessingGame class with actual paths to your images.
+
+
+## yoo hi to the dear people that even read :)
+
+
