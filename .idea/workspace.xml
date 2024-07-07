@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="removed wrong readme">
-      <change afterPath="$PROJECT_DIR$/src/RealTimeAsciiArt.java" afterDir="false" />
+    <list default="true" id="c6cd421a-be02-43f9-a801-52c70ea297fe" name="Changes" comment="update REammeey">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealTimeImageMosaic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videoasciibutwithkotlinforfun.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camera-foto-fun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Camera-foto-fun.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +21,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iasphGOPTdy3rU1OBEBFnMM0gV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +51,14 @@
     "Application.ImageToASCIIConverterallpixels.executor": "Run",
     "Application.RealTimeASCIIArt.executor": "Run",
     "Application.RealTimeAsciiArt.executor": "Run",
+    "Application.RealTimeColorFilterSwitcher.executor": "Run",
+    "Application.RealTimeEdgeDetection.executor": "Run",
+    "Application.RealTimeImageMosaic.executor": "Run",
+    "Application.RealTimeMotionDetection.executor": "Run",
+    "Application.VideoRecorder.executor": "Run",
     "Application.imageprocesing.executor": "Run",
+    "Kotlin.TestkKt.executor": "Run",
+    "Kotlin.VideoasciibutwithkotlinforfunKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -57,7 +69,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RealTimeAsciiArt">
+  <component name="RunManager" selected="Kotlin.VideoasciibutwithkotlinforfunKt">
     <configuration name="AsciiArtConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsciiArtConverter" />
       <module name="Camera-foto-fun" />
@@ -65,29 +77,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Camera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Camera" />
+    <configuration name="ImageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageProcessor" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImageGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImageGuessingGame" />
+    <configuration name="RealTimeEdgeDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealTimeEdgeDetection" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealTimeASCIIArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealTimeASCIIArt" />
+    <configuration name="RealTimeMotionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealTimeMotionDetection" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealTimeAsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealTimeAsciiArt" />
+    <configuration name="VideoasciibutwithkotlinforfunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VideoasciibutwithkotlinforfunKt" />
       <module name="Camera-foto-fun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RealTimeAsciiArt" />
-        <item itemvalue="Application.Camera" />
-        <item itemvalue="Application.RealTimeASCIIArt" />
+        <item itemvalue="Kotlin.VideoasciibutwithkotlinforfunKt" />
         <item itemvalue="Application.AsciiArtConverter" />
-        <item itemvalue="Application.ImageGuessingGame" />
+        <item itemvalue="Application.ImageProcessor" />
+        <item itemvalue="Application.RealTimeMotionDetection" />
+        <item itemvalue="Application.RealTimeEdgeDetection" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +196,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719860610477</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="video to ascii">
+      <option name="closed" value="true" />
+      <created>1719916321926</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719916321926</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fun things added">
+      <option name="closed" value="true" />
+      <created>1720006660297</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720006660297</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update REammeey">
+      <option name="closed" value="true" />
+      <created>1720007883881</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720007883881</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +244,9 @@
     <MESSAGE value="some more pics for the guessin game" />
     <MESSAGE value="added readme" />
     <MESSAGE value="removed wrong readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed wrong readme" />
+    <MESSAGE value="video to ascii" />
+    <MESSAGE value="fun things added" />
+    <MESSAGE value="update REammeey" />
+    <option name="LAST_COMMIT_MESSAGE" value="update REammeey" />
   </component>
 </project>
