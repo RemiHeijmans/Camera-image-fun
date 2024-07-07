@@ -57,6 +57,8 @@ This project performs real-time edge detection on video feed from the camera.
 ## RealTimeColorFilterSwitcher
 This project allows switching between different color filters and pixel sizes in real-time using the camera feed.
 
+## videoasciibutwithkotlinfofun
+this is just a video to ascii, press"t" to swith to light / darkmode (they are scuffed tho) i did this in kotlin just for fun.
 ## VideoRecorder
 This project records a short video using the camera.
 
