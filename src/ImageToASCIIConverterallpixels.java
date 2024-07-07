@@ -14,7 +14,7 @@ public class ImageToASCIIConverterallpixels {
         System.out.println("Load successful");
 
         // Path to the input image file
-        String imagePath = "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\falcon-swedder.jpg"; // Replace with the actual path to your image
+        String imagePath = "C:\\......jpg"; // Replace with the actual path to your image
 
         // Read the image
         Mat image = Imgcodecs.imread(imagePath);
