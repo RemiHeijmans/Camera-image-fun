@@ -18,31 +18,9 @@ public class ImageGuessingGame {
 
 
 
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\download.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\download-betta.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\dog.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\doggo.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\Geograhic_V5_Territorial_Map.png",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\Goat-peter.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\bear-micheal.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\manatee-samuel.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\falcon-swedder.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\pony-denisa.webp",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\univeriteit maastricht\\Year1\\prodject 1-2\\Neapolitan-Mastiff-laying-down-on-a-stoop-Nick.webp",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\niet school\\ART\\honnnnndd.PNG",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\niet school\\ART\\istockphoto-1212898099-1024x1024.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\niet school\\ART\\prachtiggg.png",
-            "C:\\Users\\Admin\\OneDrive\\Documenten\\niet school\\ART\\schilderij nog lang niet af....png",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\shrimp.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\redpanda.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\eagle.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\hippo.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\kangaroejfif.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\specht.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\tree.jpeg",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\krok.jfif",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\kwal.jpg",
-            "C:\\Users\\Admin\\OneDrive\\Afbeeldingen\\snek.jpg"
+           "imagepath",
+            "imagepath2"
+        //more is more fun
 
     );
     private static final Random RANDOM = new Random();
